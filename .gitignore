@@ -9,3 +9,4 @@ captures
 outfile.txt
 gradle.properties
 *.class
+*.xml
