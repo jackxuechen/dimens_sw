@@ -7,6 +7,7 @@ public enum DimenTypes {
     DP_sw__300(300),  // values-sw300
     DP_sw__320(320),
     DP_sw__360(360),
+    DP_sw__375(375),
     DP_sw__411(411),
     DP_sw__450(450);
     // 想生成多少自己以此类推
